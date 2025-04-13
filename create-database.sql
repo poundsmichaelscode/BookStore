@@ -1,0 +1,2 @@
+CREATE DATABASE BookStoreDB;
+USE BookStoreDB;
